@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "sonia-barrera-sdk"
 description = "Vel dolores harum ip"
-version = "0.0.1"
+version = "3.0.0"
 readme = "README.md"
 keywords = []
 dependencies = ["apimatic-core~=0.2.0, >= 0.2.22", "apimatic-core-interfaces~=0.1.0, >= 0.1.5", "apimatic-requests-client-adapter~=0.1.0, >= 0.1.8"]
